@@ -4,4 +4,15 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-blend-mode: center;
+  display: flex;
+}
+#content {
+  
+  margin: 20px auto;
+}
+#content ul li{
+  list-style: none;
+}
+#content ul li a{
+  text-decoration: none;
 }
